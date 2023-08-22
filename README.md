@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Jacob. I'm a Junior Programmer at Silent Bear Studio, working now on UFS2.
+If you have some cool open-source projects, I'm open to contribute. </br>
+In my free time I'm working on my own small project - Gym Tracker </br>
+and also improving my programming skills in Leetcode.
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 <!--
 **Kappowicz/Kappowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
