@@ -1,4 +1,4 @@
-### Hi, I'm Jacob. I'm a Junior Programmer at Silent Bear Studio, working now on UFS2.
+### Hi, I'm Jacob. I'm a Game developer at Silent Bear Studio, working now on UFS2.
 If you have some cool open-source projects, I'm open to contribute. </br>
 In my free time I'm working on my own small project - Gym Tracker </br>
 and also improving my programming skills in Leetcode.
