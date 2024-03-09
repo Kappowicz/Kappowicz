@@ -1,7 +1,4 @@
-### Hi, I'm Jacob. I'm a Game developer at Silent Bear Studio, working now on UFS2.
-If you have some cool open-source projects, I'm open to contribute. </br>
-In my free time I'm working on my own small project - Gym Tracker </br>
-and also improving my programming skills in Leetcode.
+### Hi, I'm Jacob.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kosarzewski-b27196247/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kubusa502/)
