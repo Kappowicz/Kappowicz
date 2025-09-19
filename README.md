@@ -1,8 +1,9 @@
 ### Hi, I'm Jacob.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kosarzewski-b27196247/)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kubusa502/)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kappowicz/)
+My projects plans:
+GIT (in progress)
+IDE
+HTTP server
 
 <!--
 **Kappowicz/Kappowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
