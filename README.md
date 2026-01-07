@@ -6,7 +6,7 @@ IDE
 HTTP server  
 
 Currently learning data structures and algorithms on leetcode:  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kappowicz?theme=dark&font=Arimo)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kappowicz?theme=dark&font=Arimo)](https://leetcode.com/u/Kappowicz/)
 <!--
 **Kappowicz/Kappowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
