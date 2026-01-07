@@ -1,10 +1,12 @@
 ### Hi, I'm Jacob.
 
 My projects plans:
-GIT (in progress)
-IDE
-HTTP server
+GIT [in progress](https://github.com/Kappowicz/MyGit)  
+IDE  
+HTTP server  
 
+Currently learning data structures and algorithms on leetcode:  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kappowicz?theme=dark&font=Arimo)
 <!--
 **Kappowicz/Kappowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
