@@ -11,4 +11,4 @@ Currently learning data structures and algorithms on leetcode:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Kappowicz?theme=dark&font=Arimo)](https://leetcode.com/u/Kappowicz/)
 
 My zsh config: [MyZshConfig](https://github.com/Kappowicz/MyZshConfig)  
-My raspbbery pi 5 setup: [MyRaspberryPiSetup](https://github.com/Kappowicz/MyRaspberryPiSetup)
+My raspberry pi 5 setup: [MyRaspberryPiSetup](https://github.com/Kappowicz/MyRaspberryPiSetup)
