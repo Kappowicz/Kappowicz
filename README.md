@@ -9,6 +9,7 @@ Computer Science student focused on systems programming, low-level architecture,
 - **[MyGit](https://github.com/Kappowicz/MyGit)** — Custom Git implementation written from scratch in C++.
 - **pwn.college** — Systems security, reverse engineering, and binary exploitation.
 - **Roadmap** — Low-level HTTP server and lightweight text editor / IDE.
+- **[Olauncher Fanmod](https://github.com/Kappowicz/Olauncher-Fanmod)** — Fork of a minimal Android launcher (Kotlin); custom wallpapers, font picker and text scaling. Built while learning to work with Claude Code.
 
 ---
 
