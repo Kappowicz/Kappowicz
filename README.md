@@ -1,5 +1,7 @@
 # Jacob (Kappowicz)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kappowicz&color=0969da&style=flat-square&label=views)
+
 Computer Science student focused on systems programming, low-level architecture, and security.
 
 ---
@@ -7,9 +9,9 @@ Computer Science student focused on systems programming, low-level architecture,
 ### Current Focus & Projects
 
 - **[MyGit](https://github.com/Kappowicz/MyGit)** — Custom Git implementation written from scratch in C++.
-- **pwn.college** — Systems security, reverse engineering, and binary exploitation.
+- **[pwn.college](https://pwn.college)** — Systems security, reverse engineering, and binary exploitation.
 - **Roadmap** — Low-level HTTP server and lightweight text editor / IDE.
-- **[Olauncher Fanmod](https://github.com/Kappowicz/Olauncher-Fanmod)** — Fork of a minimal Android launcher (Kotlin); custom wallpapers, font picker and text scaling. Built while learning to work with Claude Code.
+- **[Olauncher Fanmod](https://github.com/Kappowicz/Olauncher-Fanmod)** — Fork of a minimal Android launcher (Kotlin); custom wallpapers, font picker, and text scaling. Built while learning to work with Claude Code.
 
 ---
 
@@ -24,7 +26,7 @@ Computer Science student focused on systems programming, low-level architecture,
 
 ### Problem Solving & Algorithms
 
-- Active LeetCode practice and NeetCode 150 roadmap:
+Active LeetCode practice and NeetCode 150 roadmap:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Kappowicz?theme=dark&font=Arimo)](https://leetcode.com/u/Kappowicz/)
 
