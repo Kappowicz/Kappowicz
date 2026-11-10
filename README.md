@@ -1,7 +1,5 @@
 # Jacob (Kappowicz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kappowicz&color=0969da&style=flat-square&label=views)
-
 Computer Science student focused on systems programming, low-level architecture, and security.
 
 ---
@@ -36,3 +34,7 @@ Active LeetCode practice and NeetCode 150 roadmap:
 
 - **GitHub:** [@Kappowicz](https://github.com/Kappowicz)
 - **LeetCode:** [Kappowicz](https://leetcode.com/u/Kappowicz/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kappowicz&color=0969da&style=flat-square&label=views)
