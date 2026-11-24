@@ -10,6 +10,7 @@ Computer Science student focused on systems programming, low-level architecture,
 - **[pwn.college](https://pwn.college)** — Systems security, reverse engineering, and binary exploitation.
 - **Roadmap** — Low-level HTTP server and lightweight text editor / IDE.
 - **[Olauncher Fanmod](https://github.com/Kappowicz/Olauncher-Fanmod)** — Fork of a minimal Android launcher (Kotlin); custom wallpapers, font picker, and text scaling. Built while learning to work with Claude Code.
+- **[device-batteries](https://github.com/Kappowicz/device-batteries)** — KDE Plasma panel widget showing battery levels of wireless peripherals on SteamOS. Reverse-engineered the vendor HID protocol of a Redragon 2.4G keyboard and reads AirPods battery over Apple's AAP protocol (L2CAP).
 
 ---
 
